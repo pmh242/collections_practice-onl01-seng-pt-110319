@@ -26,6 +26,6 @@ end
 
 def find_a(array)
   array.find_all do
-    
+    array == "a"
   end
 end
