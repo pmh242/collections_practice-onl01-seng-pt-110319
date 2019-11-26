@@ -23,3 +23,4 @@ def kesha_maker(array)
     name[2] = "$"
   end
 end
+
